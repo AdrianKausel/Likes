@@ -1,0 +1,213 @@
+.navbar{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    padding-left: 5%;
+
+
+}
+
+.navtittle{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    vertical-align: center;
+    font-weight: lighter;
+    display: flex;
+    width: auto;
+
+}
+
+.feedtittle{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    display: flex;
+    font-weight: lighter;
+}
+
+.leftcol{
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 20%;
+    align-items: center;
+}
+
+.rightcol{
+    display: inline-flex;
+    flex-direction: column;
+    position: absolute;
+    margin-right: 20%;
+    width: auto;
+    justify-content: space-between;
+}
+#frame1{
+    background-color: rgb(213, 213, 212) ;
+    margin-right: 30px;
+    height: 400px;
+    width: auto;
+    border: solid 5px;
+    border-color: black;
+    text-align: center;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+
+
+    
+    
+}
+.avatar {
+    width: 120px;
+    height: 120px;
+    background-color: black;
+    border-radius: 60%;
+    border: solid 4px;
+    border-color: rgb(46, 48, 52);
+    
+
+}
+.userName{
+    font-weight: 500;
+    font-size: 28px;
+
+}    
+    
+
+.addavatar{
+    font-size: 20px;
+
+}
+#frame2{
+    height: 180px;
+    background-color: rgb(213, 213, 212);
+    border: solid 5px;
+    border-color: black;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.name{
+    margin-right: 35%;
+
+}
+.likes{
+    margin-right: 10%;
+    font-size: large;
+
+}
+
+.btn{
+    border-color: black;
+    color: rgb(0, 0, 0);
+    align-self: center;
+    background-color: rgb(220, 215, 80);
+    box-shadow: 5px 5px 5px black;
+    width: 90px;
+    height: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.usertxt {
+    text-align: center;
+}
+
+#frame3{
+    height: 180px;
+    background-color: rgb(213, 213, 212);
+    border: solid 5px;
+    border-color: black;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.name2{
+    margin-right: 30%;
+
+}
+.likes2{
+    margin-right: 10%;
+    font-size: large;
+
+}
+
+.btn2{
+    border-color: black;
+    color: rgb(0, 0, 0);
+    align-self: center;
+    background-color: rgb(220, 215, 80);
+    box-shadow: 5px 5px 5px black;
+    width: 90px;
+    height: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.usertxt2 {
+    text-align: center;
+}
+
+#frame4{
+    height: 180px;
+    background-color: rgb(213, 213, 212);
+    border: solid 5px;
+    border-color: black;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.name3{
+    margin-right: 40%;
+
+}
+.likes3{
+    margin-right: 10%;
+    font-size: large;
+
+}
+
+.btn3{
+    border-color: black;
+    color: rgb(0, 0, 0);
+    align-self: center;
+    background-color: rgb(220, 215, 80);
+    box-shadow: 5px 5px 5px black;
+    width: 90px;
+    height: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.usertxt3 {
+    text-align: center;
+}
+
